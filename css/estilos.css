@@ -1,0 +1,128 @@
+<styles>
+.contenedor {
+	width: 1000px; /*ancho de la pagina*/
+	margin: 0 auto; /*centra el contenedor*/
+	background-color: #fff; /*color de fondo*/
+}
+.encabezado {
+	width: 100%; /*ancho del div*/
+	height: 200px; /*alto del div*/
+	background-color: #391e10; /*color de fondo*/
+}
+h1 {
+	font-size: 80px;
+	color: #e2ceb1;
+	font-style: italic;
+	font-weight: bold;
+	font-weight: unset;
+	margin-top: 50px;
+	text-shadow: #fff 2px 2px;
+}
+.colores{
+	color:#fff;
+}
+.logo {
+	width: 25%;
+	text-align: center;
+	margin-top: 25px;
+	float: left;
+}
+.redondear {
+	border-radius: 30px;
+}
+.titular {
+	width: 75%;
+	text-align: center;
+	float: left;
+}
+.navegacion {
+	width: 100%;
+	height: 90px;
+	background-color: #734128;
+	text-align: center;
+}
+.navegacion a:link{
+	font-size: 40px;
+	text-decoration: none;
+	font-weight: bold;
+	letter-spacing: 2px;
+	color: #e1d4c2;
+}
+.navegacion a:hover{
+	font-size: 30px;
+	text-decoration: underline;
+	font-weight: bolder;
+	font-style: italic;
+	letter-spacing: 2px;
+	color: #fadbd8;
+}
+.fondotab{
+	background-color: #c7a07a;
+	border-radius: 10px;
+	text-align: center;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+}
+.barra {
+	width: 25%;
+	height: 600px;
+	background-color: #c7a07a;
+	float: left;
+	text-align: center;
+}
+.barra1 {
+	text-align: center;
+	color: #f9ebea;
+	font-size: 17px;
+}
+.principal {
+	width: 75%;
+	height: 600px;
+	background-color: #e2ceb1;
+	float: left;
+	text-align: center;
+}
+.textoprincipal{
+	background-color:#e2ceb1;
+}
+.texto2 {
+	margin-left: 60px;
+	margin-right: 50px;
+	text-align: justify;
+	color: #000;
+	font-size: 18px;
+}
+.texto3 {
+	margin-left: 50px;
+	margin-right: 0px;
+	text-align: justify;
+	color: #000;
+	font-size: 18px;
+	font-weight: bold;
+}
+h2{
+	font-size:35px;
+}
+h3 {
+	margin-left: 160px;
+	margin-right: 160px;
+	color:#000;
+}
+h4 {
+    font-size:20px;
+	color:#000;
+}
+.pie {
+	width: 100%;
+	height: 100px;
+	background-color:#391e10;
+	float: left;
+	text-align: center;
+	font-size:19px;
+	color:#fff;
+}
+li{
+	font-size:20px;
+}
+</styles>
